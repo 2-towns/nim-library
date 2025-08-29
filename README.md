@@ -7,7 +7,7 @@ A simple project to test and demonstrate C and Go binding in Nim (based on https
 Clone the repository
 ```sh
 git clone https://github.com/2-towns/nimble-library
-cd nimble-test
+cd nimble-library
 ```
 
 Install dependencies
@@ -35,6 +35,6 @@ cd build
 
 ```sh 
 cd binding 
-go get
+go mod download
 go test ./...
 ```
