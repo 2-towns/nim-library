@@ -1,0 +1,8 @@
+.update-timestamp
+build
+clock.nims
+nimbledeps
+vendor/.nimble
+nimcache
+nimbus-build-system.paths
+.update.timestamp

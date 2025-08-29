@@ -13,3 +13,13 @@
 	url = https://github.com/status-im/nim-chronos.git
 	ignore = untracked
 	branch = master
+[submodule "vendor/nim-results"]
+	path = vendor/nim-results
+	url = https://github.com/arnetheduck/nim-results.git
+	ignore = untracked
+	branch = master
+[submodule "vendor/nim-stew"]
+	path = vendor/nim-stew
+	url = https://github.com/status-im/nim-stew.git
+	ignore = untracked
+	branch = master
